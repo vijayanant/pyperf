@@ -10,7 +10,7 @@ This repository contains all the scripts that are used in [this][ref] blog artic
 * sorting.py - Sample script with sorting methods.
 
 
-[ref]: http://vijayanant.github.io/python/performance/analysis/2014/11/02/Performance%20analysis%20in%20Python/
+[ref]: https://www.vijayanant.com/posts/performance-analysis-in-python/
 
 
 
